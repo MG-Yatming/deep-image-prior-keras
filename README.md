@@ -24,7 +24,7 @@ use the data from https://github.com/DmitryUlyanov/deep-image-prior/tree/master/
 ## Network Architecture
 * encoder-decoder
 
-![image](https://github.com/MG-Yatming/deep-image-prior-keras/blob/master/img/hourglass.jpg）
+![image](https://github.com/MG-Yatming/deep-image-prior-keras/blob/master/img/hourglass.jpg)
 
 ## Result
 
